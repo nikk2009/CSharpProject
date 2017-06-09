@@ -1,0 +1,17 @@
+c:\users\jsharp\documents\visual studio 2012\Projects\3333_Ch05Ex01\3333_Ch05Ex01\bin\Debug\3333_Ch05Ex01.exe.config
+c:\users\jsharp\documents\visual studio 2012\Projects\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.csprojResolveAssemblyReference.cache
+c:\users\jsharp\documents\visual studio 2012\Projects\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\_3333_Ch05Ex01.Form1.resources
+c:\users\jsharp\documents\visual studio 2012\Projects\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\_3333_Ch05Ex01.Properties.Resources.resources
+c:\users\jsharp\documents\visual studio 2012\Projects\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\bin\Debug\3333_Ch05Ex01.exe.config
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\bin\Debug\3333_Ch05Ex01.exe
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\bin\Debug\3333_Ch05Ex01.pdb
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\_3333_Ch05Ex01.Form1.resources
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\_3333_Ch05Ex01.Properties.Resources.resources
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.exe
+C:\Users\jsharp\Desktop\3333_Ch05Ex01\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.pdb
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01\bin\Debug\3333_Ch05Ex01.exe.config
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.exe
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01\obj\Debug\3333_Ch05Ex01.pdb

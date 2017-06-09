@@ -1,0 +1,24 @@
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\bin\Debug\333_Solution_Ch03Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\bin\Debug\333_Solution_Ch03Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\_333_Solution_Ch03Ex01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\_333_Solution_Ch03Ex01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\333_Solution_Ch03Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\333_Solution_Ch03Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\bin\Debug\333_Solution_Ch03Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\bin\Debug\333_Solution_Ch03Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\_333_Solution_Ch03Ex01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\_333_Solution_Ch03Ex01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jsharp\Desktop\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.exe
+C:\Users\jsharp\Desktop\333_Solution_Ch03Ex01\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.pdb
+C:\Users\jsharp\Desktop\3333_Ch03Ex01_Solution\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.exe
+C:\Users\jsharp\Desktop\3333_Ch03Ex01_Solution\333_Solution_Ch03Ex01\obj\x86\Debug\333_Solution_Ch03Ex01.pdb

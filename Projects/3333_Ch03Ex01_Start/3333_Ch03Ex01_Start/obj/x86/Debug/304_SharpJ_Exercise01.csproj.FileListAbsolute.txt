@@ -1,0 +1,20 @@
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\bin\Debug\304_SharpJ_Exercise01.exe
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\bin\Debug\304_SharpJ_Exercise01.pdb
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\_304_SharpJ_Exercise01.Form1.resources
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\_304_SharpJ_Exercise01.Properties.Resources.resources
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\304_SharpJ_Exercise01.exe
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\304_SharpJ_Exercise01.pdb
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\304_SharpJ_Exercise01.exe
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\304_SharpJ_Exercise01.pdb
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\bin\Debug\304_SharpJ_Exercise01.exe
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\bin\Debug\304_SharpJ_Exercise01.pdb
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\_304_SharpJ_Exercise01.Form1.resources
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\_304_SharpJ_Exercise01.Properties.Resources.resources
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\CIS 3043\304_SharpJ_Exercise01\304_SharpJ_Exercise01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\304_SharpJ_Exercise01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Solution_Ch03Ex01\304_SharpJ_Exercise01\obj\x86\Debug\304_SharpJ_Exercise01.pdb

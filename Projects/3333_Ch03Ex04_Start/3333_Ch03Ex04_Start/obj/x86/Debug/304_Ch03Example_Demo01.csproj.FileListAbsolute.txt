@@ -1,0 +1,22 @@
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\bin\Debug\304_Ch03Example_Demo01.exe
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\bin\Debug\304_Ch03Example_Demo01.pdb
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch03Example_Demo01.Form1.resources
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch03Example_Demo01.Properties.Resources.resources
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.exe
+c:\documents and settings\jsharp\my documents\visual studio 2010\Projects\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.pdb
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.exe
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.pdb
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\bin\Debug\304_Ch03Example_Demo01.exe
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\bin\Debug\304_Ch03Example_Demo01.pdb
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch03Example_Demo01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch03Example_Demo01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3043 Topics in CIS\C# Programming\304 Fall 2011\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.exe
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3043 Topics in CIS\C# Programming\304 Fall 2011\304 Fall 2011\304_Ch03Example_Demo01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.pdb
+C:\Users\jsharp\Desktop\333 Labs Spring 2014\333_Ch0304\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.exe
+C:\Users\jsharp\Desktop\333 Labs Spring 2014\333_Ch0304\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch03Example_Demo01.pdb

@@ -1,0 +1,11 @@
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\bin\Debug\333_AppendixB_Example_Demo.exe
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\bin\Debug\333_AppendixB_Example_Demo.pdb
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\_333_AppendixB_Example_Demo.snacksComboBox.resources
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\_333_AppendixB_Example_Demo.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\333_AppendixB_Example_Demo.exe
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Demo\333_AppendixB_Example_Demo\obj\x86\Debug\333_AppendixB_Example_Demo.pdb
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Demo\obj\x86\Debug\333_AppendixB_Example_Demo.exe
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Demo\obj\x86\Debug\333_AppendixB_Example_Demo.pdb

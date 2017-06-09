@@ -1,0 +1,15 @@
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\bin\Debug\Fuel Economy with ErrorProvider Start.exe
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\bin\Debug\Fuel Economy with ErrorProvider Start.pdb
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel_Economy_with_ErrorProvider_Start.Form1.resources
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel_Economy_with_ErrorProvider_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.exe
+C:\Users\jsharp\Desktop\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\bin\Debug\Fuel Economy with ErrorProvider Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\bin\Debug\Fuel Economy with ErrorProvider Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel_Economy_with_ErrorProvider_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel_Economy_with_ErrorProvider_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Fuel Economy with ErrorProvider Start\Fuel Economy with ErrorProvider Start\obj\x86\Debug\Fuel Economy with ErrorProvider Start.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\bin\Debug\333_AppendixB_Example_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\bin\Debug\333_AppendixB_Example_Start.pdb
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\_333_AppendixB_Example_Start.snacksComboBox.resources
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\_333_AppendixB_Example_Start.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.pdb
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.pdb
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.exe
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.pdb
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\_333_AppendixB_Example_Start.snacksComboBox.resources
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\_333_AppendixB_Example_Start.Properties.Resources.resources
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\bin\Debug\333_AppendixB_Example_Start.exe
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3333 C# Programming\333_AppendixB_Example_Start\333_AppendixB_Example_Start\bin\Debug\333_AppendixB_Example_Start.pdb
+C:\Users\jsharp\Desktop\3333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.exe
+C:\Users\jsharp\Desktop\3333_AppendixB_Example_Start\333_AppendixB_Example_Start\obj\x86\Debug\333_AppendixB_Example_Start.pdb

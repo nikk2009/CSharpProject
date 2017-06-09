@@ -1,0 +1,19 @@
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01\bin\Debug\3333_Ch05Ex01_Start.exe.config
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\bin\Debug\3333_Ch05Ex01_Start.exe.config
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\bin\Debug\3333_Ch05Ex01_Start.exe
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\bin\Debug\3333_Ch05Ex01_Start.pdb
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\_3333_Ch05Ex01_Start.Form1.resources
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\_3333_Ch05Ex01_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.exe
+C:\Users\jsharp\Desktop\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\bin\Debug\3333_Ch05Ex01_Start.exe.config
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\bin\Debug\3333_Ch05Ex01_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\bin\Debug\3333_Ch05Ex01_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\_3333_Ch05Ex01_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\_3333_Ch05Ex01_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Ch05Ex01_Start\3333_Ch05Ex01_Start\obj\Debug\3333_Ch05Ex01_Start.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\jsharp\Documents\Courses\BCIS 3333 C# Programming\Chapter Tutorials\3333_Tutorial_0301_Start\3333_Tutorial0301_Start\bin\Debug\3333_Tutorial_0301_Start.exe.config
+C:\Users\jsharp\Documents\Courses\BCIS 3333 C# Programming\Chapter Tutorials\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\bin\Debug\3333_Tutorial_0301_Start.exe.config
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\bin\Debug\3333_Tutorial_0301_Start.exe.config
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\bin\Debug\3333_Tutorial_0301_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\bin\Debug\3333_Tutorial_0301_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\obj\Debug\3333_Tutorial_0301_Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\obj\Debug\_3333_Tutorial_0301_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\obj\Debug\_3333_Tutorial_0301_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\obj\Debug\3333_Tutorial_0301_Start.csproj.GenerateResource.Cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\obj\Debug\3333_Tutorial_0301_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0301_Start\3333_Tutorial_0301_Start\obj\Debug\3333_Tutorial_0301_Start.pdb

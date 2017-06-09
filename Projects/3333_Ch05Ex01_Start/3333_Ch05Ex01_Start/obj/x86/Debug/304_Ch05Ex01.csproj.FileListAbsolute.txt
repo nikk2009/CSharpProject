@@ -1,0 +1,22 @@
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\bin\Debug\304_Ch05Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\bin\Debug\304_Ch05Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\_304_Ch05Ex01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\_304_Ch05Ex01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.pdb
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.exe
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.pdb
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\bin\Debug\304_Ch05Ex01.exe
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\bin\Debug\304_Ch05Ex01.pdb
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\_304_Ch05Ex01.Form1.resources
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\_304_Ch05Ex01.Properties.Resources.resources
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\CIS 3043\304_Ch05Ex01\304_Ch05Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Ch05Ex01_Start\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Ch05Ex01_Start\304_Ch05Ex01\obj\x86\Debug\304_Ch05Ex01.pdb

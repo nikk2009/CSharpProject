@@ -1,0 +1,25 @@
+C:\Documents and Settings\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\_333_Ch07_Example02_Start.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\_333_Ch07_Example02_Start.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\bin\Debug\333_Ch07_Example02_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\bin\Debug\333_Ch07_Example02_Start.pdb
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\_333_Ch07_Example02_Start.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\_333_Ch07_Example02_Start.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\333_Ch07_Example02_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333 Fall 2012\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\333_Ch07_Example02_Start.pdb
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\333_Ch07_Example02_Start.exe
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\333_Ch07_Example02_Start.pdb
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\bin\Debug\333_Ch07_Example02_Start.exe
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\bin\Debug\333_Ch07_Example02_Start.pdb
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\_333_Ch07_Example02_Start.Form1.resources
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\_333_Ch07_Example02_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jsharp\Desktop\333_Ch07_Example02_Start\333_Ch07_Example02_Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jsharp\Documents\333_Ch07_Example02_Completed_Validation\333_Ch07_Example02_Start\obj\x86\Debug\333_Ch07_Example02_Start.exe
+C:\Users\jsharp\Documents\333_Ch07_Example02_Completed_Validation\333_Ch07_Example02_Start\obj\x86\Debug\333_Ch07_Example02_Start.pdb

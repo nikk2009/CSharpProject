@@ -1,0 +1,11 @@
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\bin\Debug\333_Tutorial_0401_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\bin\Debug\333_Tutorial_0401_Start.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\_333_Tutorial_0401_Start.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\_333_Tutorial_0401_Start.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\333_Tutorial_0401_Start.exe
+C:\Documents and Settings\jsharp\Desktop\333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\333_Tutorial_0401_Start.pdb
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\333_Tutorial_0401_Start.exe
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\Test Score Average\obj\x86\Debug\333_Tutorial_0401_Start.pdb

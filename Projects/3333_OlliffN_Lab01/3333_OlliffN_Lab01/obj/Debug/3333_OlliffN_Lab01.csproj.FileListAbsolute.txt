@@ -1,0 +1,9 @@
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\bin\Debug\3333_OlliffN_Lab01.exe.config
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\bin\Debug\3333_OlliffN_Lab01.exe
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\bin\Debug\3333_OlliffN_Lab01.pdb
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\obj\Debug\3333_OlliffN_Lab01.csprojResolveAssemblyReference.cache
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\obj\Debug\_3333_OlliffN_Lab01.Form1.resources
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\obj\Debug\_3333_OlliffN_Lab01.Properties.Resources.resources
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\obj\Debug\3333_OlliffN_Lab01.csproj.GenerateResource.Cache
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\obj\Debug\3333_OlliffN_Lab01.exe
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Lab01\3333_OlliffN_Lab01\obj\Debug\3333_OlliffN_Lab01.pdb

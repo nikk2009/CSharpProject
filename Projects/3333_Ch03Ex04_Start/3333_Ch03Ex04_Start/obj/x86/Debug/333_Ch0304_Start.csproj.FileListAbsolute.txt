@@ -1,0 +1,12 @@
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\bin\Debug\333_Ch0304_Start.exe
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\bin\Debug\333_Ch0304_Start.pdb
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\_304_Ch0304_Start.Form1.resources
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\_333_Ch0304_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.exe
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.pdb
+C:\Users\jsharp\Desktop\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Documents\Courses\BCIS 3333 C# Programming\Classroom Examples\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.exe
+C:\Users\jsharp\Documents\Courses\BCIS 3333 C# Programming\Classroom Examples\333_Ch0304_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.pdb
+C:\Users\jsharp\Desktop\3333_Ch03Ex04_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.exe
+C:\Users\jsharp\Desktop\3333_Ch03Ex04_Start\333_Ch0304_Start\obj\x86\Debug\333_Ch0304_Start.pdb

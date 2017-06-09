@@ -1,0 +1,9 @@
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\bin\Debug\3333_OlliffN_Ch02Ex02.exe.config
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\bin\Debug\3333_OlliffN_Ch02Ex02.exe
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\bin\Debug\3333_OlliffN_Ch02Ex02.pdb
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\obj\Debug\3333_OlliffN_Ch02Ex02.csprojResolveAssemblyReference.cache
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\obj\Debug\_3333_OlliffN_Ch02Ex02.translatorBox.resources
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\obj\Debug\_3333_OlliffN_Ch02Ex02.Properties.Resources.resources
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\obj\Debug\3333_OlliffN_Ch02Ex02.csproj.GenerateResource.Cache
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\obj\Debug\3333_OlliffN_Ch02Ex02.exe
+c:\users\000212872\documents\visual studio 2012\Projects\3333_OlliffN_Ch02Ex02\3333_OlliffN_Ch02Ex02\obj\Debug\3333_OlliffN_Ch02Ex02.pdb

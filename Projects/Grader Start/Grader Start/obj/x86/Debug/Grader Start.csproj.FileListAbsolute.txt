@@ -1,0 +1,16 @@
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\bin\Debug\Grader Start.exe
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\bin\Debug\Grader Start.pdb
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\obj\x86\Debug\Grader Start.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\obj\x86\Debug\Grader_Start.Form1.resources
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\obj\x86\Debug\Grader_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\obj\x86\Debug\Grader Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\obj\x86\Debug\Grader Start.exe
+C:\Users\jsharp\Desktop\Grader Start\Grader Start\obj\x86\Debug\Grader Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\obj\x86\Debug\Grader Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\obj\x86\Debug\Grader Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\bin\Debug\Grader Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\bin\Debug\Grader Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\obj\x86\Debug\Grader Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\obj\x86\Debug\Grader_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\obj\x86\Debug\Grader_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader Start\Grader Start\obj\x86\Debug\Grader Start.csproj.GenerateResource.Cache

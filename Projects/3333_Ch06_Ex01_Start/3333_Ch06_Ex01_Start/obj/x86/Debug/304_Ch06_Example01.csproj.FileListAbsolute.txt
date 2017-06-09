@@ -1,0 +1,22 @@
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\bin\Debug\304_Ch06_Example01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\bin\Debug\304_Ch06_Example01.pdb
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch03Example_Demo01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch06_Example01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch06_Example01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch06_Example01.pdb
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch06_Example01.exe
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch06_Example01.pdb
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch03Example_Demo01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\_304_Ch06_Example01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\bin\Debug\304_Ch06_Example01.exe
+C:\Documents and Settings\jsharp\Desktop\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\bin\Debug\304_Ch06_Example01.pdb
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3043 Topics in CIS\C# Programming\304 Fall 2011\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch06_Example01.exe
+C:\Documents and Settings\jsharp\My Documents\Courses\CIS 3043 Topics in CIS\C# Programming\304 Fall 2011\304 Fall 2011\304_Ch06_Example01\304_Ch03Example_Demo01\obj\x86\Debug\304_Ch06_Example01.pdb
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01_Start\304_Ch06_Example01\obj\x86\Debug\304_Ch06_Example01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Example01_Start\304_Ch06_Example01\obj\x86\Debug\304_Ch06_Example01.pdb

@@ -1,0 +1,16 @@
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\bin\Debug\3333_Tutorial_0401_Start.exe
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\bin\Debug\3333_Tutorial_0401_Start.pdb
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\_3333_Tutorial_0401_Start.Form1.resources
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\_3333_Tutorial_0401_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.exe
+C:\Users\jsharp\Desktop\3333 Chapter 04 Tutorials\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\bin\Debug\3333_Tutorial_0401_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\bin\Debug\3333_Tutorial_0401_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\_3333_Tutorial_0401_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\_3333_Tutorial_0401_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\3333_Tutorial_0401_Start\3333_Tutorial_0401_Start\obj\x86\Debug\3333_Tutorial_0401_Start.csproj.GenerateResource.Cache

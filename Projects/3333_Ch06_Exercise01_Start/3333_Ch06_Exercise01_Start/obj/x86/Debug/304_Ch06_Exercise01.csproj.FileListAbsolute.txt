@@ -1,0 +1,13 @@
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\bin\Debug\304_Ch06_Exercise01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\bin\Debug\304_Ch06_Exercise01.pdb
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\_304_Ch06_Exercise01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\_304_Ch06_Exercise01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\304_Ch06_Exercise01.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\304_Ch06_Exercise01.pdb
+C:\Documents and Settings\jsharp\Desktop\304\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\304_Ch06_Exercise01.exe
+C:\Documents and Settings\jsharp\Desktop\304\304_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\304_Ch06_Exercise01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\304_Ch06_Exercise01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Ch06_Exercise01\304_Ch06_Exercise01\obj\x86\Debug\304_Ch06_Exercise01.pdb

@@ -1,0 +1,11 @@
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\bin\Debug\549_Ch08Example_Demo02.exe
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\bin\Debug\549_Ch08Example_Demo02.pdb
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\_549_Ch08Example_Demo02.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\_549_Ch08Example_Demo02.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\549_Ch08Example_Demo02.exe
+C:\Documents and Settings\jsharp\Desktop\549_Ch08Example_Demo02\549_Ch08Example_Demo02\obj\x86\Debug\549_Ch08Example_Demo02.pdb
+C:\Documents and Settings\jsharp\Desktop\304_Ch07_Example02\549_Ch08Example_Demo02\obj\x86\Debug\549_Ch08Example_Demo02.exe
+C:\Documents and Settings\jsharp\Desktop\304_Ch07_Example02\549_Ch08Example_Demo02\obj\x86\Debug\549_Ch08Example_Demo02.pdb

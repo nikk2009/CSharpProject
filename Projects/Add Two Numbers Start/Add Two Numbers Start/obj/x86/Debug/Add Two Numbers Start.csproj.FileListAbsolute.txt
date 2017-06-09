@@ -1,0 +1,8 @@
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\bin\Debug\Add Two Numbers Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\bin\Debug\Add Two Numbers Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\obj\x86\Debug\Add Two Numbers Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\obj\x86\Debug\Add_Two_Numbers_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\obj\x86\Debug\Add_Two_Numbers_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\obj\x86\Debug\Add Two Numbers Start.csproj.GenerateResource.Cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\obj\x86\Debug\Add Two Numbers Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Add Two Numbers Start\Add Two Numbers Start\obj\x86\Debug\Add Two Numbers Start.pdb

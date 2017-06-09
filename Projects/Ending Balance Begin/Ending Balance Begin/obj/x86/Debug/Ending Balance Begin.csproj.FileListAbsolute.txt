@@ -1,0 +1,10 @@
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending Balance Begin.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending_Balance_Begin.Form1.resources
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending_Balance_Begin.Properties.Resources.resources
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending Balance Begin.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\bin\Debug\Ending Balance Begin.exe
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\bin\Debug\Ending Balance Begin.pdb
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending Balance Begin.exe
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending Balance Begin.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending Balance Begin.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Ending Balance Begin\Ending Balance Begin\obj\x86\Debug\Ending Balance Begin.pdb

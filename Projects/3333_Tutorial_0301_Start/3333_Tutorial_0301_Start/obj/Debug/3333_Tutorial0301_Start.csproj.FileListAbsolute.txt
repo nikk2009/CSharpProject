@@ -1,0 +1,2 @@
+c:\users\jsharp\documents\visual studio 2012\Projects\3333_Tutorial0301_Start\3333_Tutorial0301_Start\bin\Debug\3333_Tutorial0301_Start.exe.config
+C:\Users\jsharp\Documents\Courses\BCIS 3333 C# Programming\Chapter Tutorials\3333_Tutorial_0301_Start\3333_Tutorial0301_Start\bin\Debug\3333_Tutorial0301_Start.exe.config

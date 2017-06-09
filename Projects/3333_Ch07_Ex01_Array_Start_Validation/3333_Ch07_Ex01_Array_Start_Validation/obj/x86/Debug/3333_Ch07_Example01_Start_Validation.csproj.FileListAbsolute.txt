@@ -1,0 +1,2 @@
+C:\Users\jsharp\Desktop\3333_Ch07_Ex01_Array_Start_Validation\333_Ch07_Example01_Completed_Validation\obj\x86\Debug\333_Ch07_Example01_Completed_Validation.exe
+C:\Users\jsharp\Desktop\3333_Ch07_Ex01_Array_Start_Validation\333_Ch07_Example01_Completed_Validation\obj\x86\Debug\333_Ch07_Example01_Completed_Validation.pdb

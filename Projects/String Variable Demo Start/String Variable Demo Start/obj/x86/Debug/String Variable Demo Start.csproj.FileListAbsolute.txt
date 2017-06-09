@@ -1,0 +1,8 @@
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\bin\Debug\String Variable Demo Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\bin\Debug\String Variable Demo Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\obj\x86\Debug\String Variable Demo Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\obj\x86\Debug\String_Variable_Demo_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\obj\x86\Debug\String_Variable_Demo_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\obj\x86\Debug\String Variable Demo Start.csproj.GenerateResource.Cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\obj\x86\Debug\String Variable Demo Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\String Variable Demo Start\String Variable Demo Start\obj\x86\Debug\String Variable Demo Start.pdb

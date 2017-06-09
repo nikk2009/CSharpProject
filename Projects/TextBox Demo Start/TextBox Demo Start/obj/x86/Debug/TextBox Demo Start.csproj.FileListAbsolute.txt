@@ -1,0 +1,8 @@
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\bin\Debug\TextBox Demo Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\bin\Debug\TextBox Demo Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\obj\x86\Debug\TextBox Demo Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\obj\x86\Debug\TextBox_Demo_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\obj\x86\Debug\TextBox_Demo_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\obj\x86\Debug\TextBox Demo Start.csproj.GenerateResource.Cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\obj\x86\Debug\TextBox Demo Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\TextBox Demo Start\TextBox Demo Start\obj\x86\Debug\TextBox Demo Start.pdb

@@ -1,0 +1,16 @@
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.Form1.resources
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\bin\Debug\Program3_1_Start.exe
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\bin\Debug\Program3_1_Start.pdb
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.exe
+C:\Users\jsharp\Desktop\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\bin\Debug\Program3_1_Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\bin\Debug\Program3_1_Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.csprojResolveAssemblyReference.cache
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.Form1.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.Properties.Resources.resources
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Program3_1_Start\Program3_1_Start\obj\x86\Debug\Program3_1_Start.csproj.GenerateResource.Cache

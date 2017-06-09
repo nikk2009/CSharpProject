@@ -1,0 +1,11 @@
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\bin\Debug\Ending Balance Start.exe
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\bin\Debug\Ending Balance Start.pdb
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\Ending_Balance.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\Ending_Balance_Start.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\Ending Balance Start.exe
+C:\Documents and Settings\jsharp\Desktop\Ending Balance Start\Ending Balance Start\obj\x86\Debug\Ending Balance Start.pdb
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Start\Ending Balance Start\obj\x86\Debug\Ending Balance Start.exe
+C:\Users\jsharp\Desktop\Chapter 05 Projects\Ending Balance Start\Ending Balance Start\obj\x86\Debug\Ending Balance Start.pdb

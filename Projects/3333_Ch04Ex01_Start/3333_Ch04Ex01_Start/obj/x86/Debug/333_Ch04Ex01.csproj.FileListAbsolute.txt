@@ -1,0 +1,31 @@
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\bin\Debug\333_Ch04Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\bin\Debug\333_Ch04Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\_333_Ch04Ex01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\_333_Ch04Ex01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\333_Ch04Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\Program4_6\obj\x86\Debug\333_Ch04Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\bin\Debug\333_Ch04Ex01.exe
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\bin\Debug\333_Ch04Ex01.pdb
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\_333_Ch04Ex01.Form1.resources
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\_333_Ch04Ex01.Properties.Resources.resources
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jsharp\Desktop\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.exe
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.pdb
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\bin\Debug\333_Ch04Ex01.exe
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\bin\Debug\333_Ch04Ex01.pdb
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\_333_Ch04Ex01.Form1.resources
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\_333_Ch04Ex01.Properties.Resources.resources
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\GenerateResource.write.1.tlog
+\\STORE01\jsharp\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.exe
+\\STORE01\jsharp\CIS 3333\333 Chapter 04 Classroom Examples\333_Ch04Ex01\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.pdb
+C:\Users\jsharp\Desktop\333_Ch04Ex01_Start\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.exe
+C:\Users\jsharp\Desktop\333_Ch04Ex01_Start\333_Ch04Ex01\obj\x86\Debug\333_Ch04Ex01.pdb

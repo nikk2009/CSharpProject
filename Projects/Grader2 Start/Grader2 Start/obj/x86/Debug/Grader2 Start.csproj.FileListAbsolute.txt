@@ -1,0 +1,10 @@
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\bin\Debug\Grader2 Start.exe
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\bin\Debug\Grader2 Start.pdb
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2 Start.csprojResolveAssemblyReference.cache
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2_Start.Form1.resources
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2_Start.Properties.Resources.resources
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2 Start.csproj.GenerateResource.Cache
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2 Start.exe
+C:\Users\jsharp\Desktop\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2 Start.pdb
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2 Start.exe
+C:\Users\000212872\Documents\Visual Studio 2012\Projects\Grader2 Start\Grader2 Start\obj\x86\Debug\Grader2 Start.pdb
